@@ -1,0 +1,13 @@
+[W 17:09:08.805 NotebookApp] Unrecognized JSON config file version, assuming version 1
+[I 17:09:09.581 NotebookApp] [nb_conda_kernels] enabled, 1 kernels found
+[I 17:09:09.934 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:09:10.403 NotebookApp] [nb_conda] enabled
+[I 17:09:11.079 NotebookApp] \u2713 nbpresent HTML export ENABLED
+[W 17:09:11.080 NotebookApp] \u2717 nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 17:09:11.940 NotebookApp] [nb_anacondacloud] enabled
+[I 17:09:12.175 NotebookApp] Serving notebooks from local directory: C:\Users\User\statistics-indonesia-python\data
+[I 17:09:12.175 NotebookApp] 0 active kernels 
+[I 17:09:12.175 NotebookApp] The Jupyter Notebook is running at: http://localhost:8889/
+[I 17:09:12.175 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 17:09:42.177 NotebookApp] Interrupted...
+[I 17:09:42.178 NotebookApp] Shutting down kernels
