@@ -1,0 +1,2 @@
+fm.findSystemFonts(fontpaths='C:\Windows\Fonts\', fontext='ttf')
+prop = fm.FontProperties(fname='C:\Windows\Fonts\calibrii.ttf')
